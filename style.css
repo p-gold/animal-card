@@ -1,0 +1,27 @@
+body{
+  padding-left: 600px;
+  padding-top: 50px;
+}
+
+.container{
+  border: 2px solid #ebe8e8;
+  width:  350px;
+  padding: 18px;
+  box-shadow: 7px 7px 4px #ebe8e8;
+}
+
+.jumpingSpiderImg{
+  width: 350px;
+}
+
+.facts{
+  border: 2px solid #ebe8e8;
+  margin-top: 18px;
+  padding: 18px;
+  text-align-last: left;
+}
+
+.facts ul {
+  list-style-type: none;
+  padding-left: 0;
+}
